@@ -91,7 +91,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/BmiCalculator/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/BmiCalculator/default/preview.jpeg",
             "width": 1280,
             "height": 609
           }
@@ -205,7 +205,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/Counter/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/Counter/default/preview.jpeg",
             "width": 1280,
             "height": 521
           }
@@ -323,7 +323,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/Gallery/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/Gallery/default/preview.jpeg",
             "width": 1280,
             "height": 804
           }
@@ -510,7 +510,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/Hero/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/Hero/default/preview.jpeg",
             "width": 1280,
             "height": 636
           }
@@ -783,7 +783,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/ImageCards/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/ImageCards/default/preview.jpeg",
             "width": 1280,
             "height": 1006
           }
@@ -983,7 +983,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/PricingPackages/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/PricingPackages/default/preview.jpeg",
             "width": 1280,
             "height": 1091
           }
@@ -1109,7 +1109,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/Quote/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/Quote/default/preview.jpeg",
             "width": 1280,
             "height": 408
           }
@@ -1271,7 +1271,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/Reviews/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/Reviews/default/preview.jpeg",
             "width": 1280,
             "height": 631
           }
@@ -1411,12 +1411,12 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/.slicemachine/assets/slices/Text/default/preview.png",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/.slicemachine/assets/slices/Text/default/preview.png",
             "width": 800,
             "height": 516
           },
           "twoColumns": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/.slicemachine/assets/slices/Text/twoColumns/preview.png",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/.slicemachine/assets/slices/Text/twoColumns/preview.png",
             "width": 800,
             "height": 276
           }
@@ -1568,7 +1568,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "/Users/moussaabmma/Documents/GitHub/coach-melissa/slices/TextWithImage/default/preview.jpeg",
+            "path": "/Users/moussaabmma/Documents/GitHub/hc-travaux-services/slices/TextWithImage/default/preview.jpeg",
             "width": 1280,
             "height": 932
           }

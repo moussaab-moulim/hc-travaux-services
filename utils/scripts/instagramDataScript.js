@@ -35,7 +35,7 @@ const getInstagramFeedGraphql = async () => {
       console.log("url=====", url);
       return {
         url: url,
-        alt: "une image instagram depuis le profile d'coach melissa",
+        alt: "une image instagram depuis le profile de high concept travaux services",
         linkTo: `https://www.instagram.com/p/${image.shortcode}/`,
       };
     });

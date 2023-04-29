@@ -1,5 +1,5 @@
 {
-  "apiEndpoint": "https://coach-melissa.prismic.io/api/v2",
+  "apiEndpoint": "https://hc-travaux-services.prismic.io/api/v2",
   "localSliceSimulatorURL": "http://localhost:3000/simulator",
   "libraries": ["@/slices"],
   "_latest": "0.5.2"

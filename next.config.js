@@ -22,7 +22,7 @@ const nextConfig = {
     domains: [
       "images.prismic.io",
       "scontent.cdninstagram.com",
-      "coach-melissa.cdn.prismic.io",
+      "hc-travaux-services.cdn.prismic.io",
       "images.unsplash.com",
       "scontent-sea1-1.cdninstagram.com",
     ],
