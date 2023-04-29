@@ -1,0 +1,63 @@
+{
+  "id": "gallery",
+  "type": "SharedSlice",
+  "name": "Gallery",
+  "description": "Gallery",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Gallery",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "multi": "heading1,heading2,heading3,heading4,heading5,heading6,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your feature",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "background_color": {
+          "type": "Color",
+          "config": {
+            "label": "background color",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "image",
+            "constraint": {
+              "width": 932,
+              "height": 935
+            },
+            "thumbnails": []
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

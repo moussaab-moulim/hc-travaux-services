@@ -1,0 +1,28 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "slice_id": "beginning",
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Badly",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Laboris labore minim voluptate adipisicing fugiat id nulla incididunt do qui deserunt. Irure esse veniam aute voluptate sit reprehenderit nisi aute dolore ex tempor qui. Eu officia occaecat ad aliqua enim dolor pariatur do tempor quis minim.",
+          "spans": []
+        }
+      ],
+      "background_color": "#000000"
+    },
+    "slice_type": "bmi_calculator"
+  }
+]

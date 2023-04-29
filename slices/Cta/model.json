@@ -1,0 +1,74 @@
+{
+  "id": "cta",
+  "type": "SharedSlice",
+  "name": "Cta",
+  "description": "Text",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Text",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "heading1,heading2,heading3,heading4,heading5,heading6,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your feature",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "background_color": {
+          "type": "Color",
+          "config": {
+            "label": "background color",
+            "placeholder": ""
+          }
+        },
+        "background": {
+          "type": "Image",
+          "config": {
+            "label": "background",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "buttonlabel": {
+          "type": "Text",
+          "config": {
+            "label": "Button Label",
+            "placeholder": ""
+          }
+        },
+        "buttonlink": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

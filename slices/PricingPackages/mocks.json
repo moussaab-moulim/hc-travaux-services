@@ -1,0 +1,152 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "angry",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Connected"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Reprehenderit aliquip tempor ea laboris consequat officia anim reprehenderit enim. Exercitation reprehenderit sint nulla exercitation Lorem tempor mollit. Aliqua minim deserunt occaecat exercitation excepteur fugiat eu nulla."
+            }
+          }
+        ]
+      },
+      "background": {
+        "__TYPE__": "ImageContent",
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+          "width": 2545,
+          "height": 2545
+        },
+        "url": "https://images.unsplash.com/photo-1600861194802-a2b11076bc51",
+        "width": 2545,
+        "height": 2545,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "thumbnails": {}
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#e86807",
+        "type": "Color"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "icon",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88",
+                "width": 3168,
+                "height": 4752
+              },
+              "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88",
+              "width": 3168,
+              "height": 4752,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ],
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Non sit incididunt qui."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "list",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Enim sint eu duis magna magna pariatur id duis deserunt aute."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "price",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Adipisicing ut minim esse fugiat dolore nulla nisi elit."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "buttonlabel",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "adult",
+              "type": "Text"
+            }
+          ],
+          [
+            "buttonlink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://slicemachine.dev"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

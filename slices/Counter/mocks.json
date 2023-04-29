@@ -1,0 +1,63 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "plus",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading2",
+            "content": {
+              "text": "Notice"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Aliqua laboris proident minim culpa eiusmod voluptate eu do aute."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#60551b",
+        "type": "Color"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "number",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "52",
+              "type": "Number"
+            }
+          ],
+          [
+            "label",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "headed",
+              "type": "Text"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

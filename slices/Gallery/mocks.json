@@ -1,0 +1,71 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "play",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Disappear"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ea commodo excepteur est laborum mollit pariatur ut. Nisi in commodo fugiat eiusmod voluptate exercitation voluptate amet ex."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#000000",
+        "type": "Color"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636",
+                "width": 3935,
+                "height": 5894
+              },
+              "url": "https://images.unsplash.com/photo-1587905069134-008460d7a636?rect=0%2C973%2C3935%2C3948&w=932&h=935",
+              "width": 932,
+              "height": 935,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 973
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

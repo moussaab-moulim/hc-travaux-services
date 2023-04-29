@@ -1,0 +1,46 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [{}],
+    "primary": {
+      "slice_id": "lot",
+      "right_text": false,
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Tomorrow",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "heading1",
+          "text": "Gradually",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Pariatur excepteur sit labore fugiat fugiat aliquip incididunt. Ad incididunt id id reprehenderit.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 1000,
+          "height": 1200
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.prismic.io/nextjs-starter-prismic-multi-page/fcb2333d-d2b2-4cdc-acdd-f9558703472d_anders-jilden-Sc5RKXLBjGg-unsplash.jpg"
+      },
+      "buttonlink": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      },
+      "buttonlabel": "soft",
+      "background_color": "#555555"
+    },
+    "slice_type": "text_with_image"
+  }
+]

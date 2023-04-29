@@ -1,0 +1,9 @@
+import MyComponent from '../../../../slices/Counter';
+
+export default {
+  title: 'slices/Counter'
+}
+
+
+export const _Default = () => <MyComponent slice={{"variation":"default","version":"sktwi1xtmkfgx8626","items":[{"number":83,"label":"rapidly"}],"primary":{"slice_id":"building","title":[{"type":"heading2","text":"Noise","spans":[]}],"description":[{"type":"paragraph","text":"Et proident eu aute labore commodo exercitation. Nostrud ea laboris nisi nisi veniam consectetur ipsum.","spans":[]}],"background_color":"#590d8b"},"slice_type":"counter","id":"_Default"}} />
+_Default.storyName = ''

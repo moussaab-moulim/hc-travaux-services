@@ -1,0 +1,130 @@
+{
+  "id": "hero",
+  "type": "SharedSlice",
+  "name": "Hero",
+  "description": "Hero",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Hero",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "class": {
+          "type": "Text",
+          "config": {
+            "label": "class",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "multi": "heading1,heading2,heading3,heading4,heading5,heading6,em,strong"
+          }
+        },
+        "text": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Text",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "backgroundImage": {
+          "type": "Image",
+          "config": {
+            "label": "background Image",
+            "constraint": {},
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 737,
+                "height": 737
+              }
+            ]
+          }
+        }
+      },
+      "items": {
+        "buttonlink": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "select": null
+          }
+        },
+        "buttontext": {
+          "type": "Text",
+          "config": {
+            "label": "Button Text",
+            "placeholder": ""
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    },
+    {
+      "id": "noActionHero",
+      "name": "No Action Hero",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "Hero",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "class": {
+          "type": "Text",
+          "config": {
+            "label": "class",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "heading1,heading2,heading3,heading4,heading5,heading6,strong,em"
+          }
+        },
+        "backgroundImage": {
+          "type": "Image",
+          "config": {
+            "label": "background Image",
+            "constraint": {},
+            "thumbnails": [
+              {
+                "name": "mobile",
+                "width": 737,
+                "height": 737
+              }
+            ]
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

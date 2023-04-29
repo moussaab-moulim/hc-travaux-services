@@ -1,0 +1,84 @@
+{
+  "id": "text_with_image",
+  "type": "SharedSlice",
+  "name": "TextWithImage",
+  "description": "TextWithImage",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "TextWithImage",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "right_text": {
+          "type": "Boolean",
+          "config": {
+            "label": "right text",
+            "default_value": false,
+            "placeholder_true": "true",
+            "placeholder_false": "false"
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "heading1,heading2,heading3,heading4,heading5,heading6,strong,em"
+          }
+        },
+        "text": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Text",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,heading1,heading2,heading3,strong,em,hyperlink,list-item,o-list-item,embed,preformatted"
+          }
+        },
+        "image": {
+          "type": "Image",
+          "config": {
+            "label": "image",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "buttonlink": {
+          "type": "Link",
+          "config": {
+            "label": "Button Link",
+            "placeholder": "",
+            "allowTargetBlank": false,
+            "select": null
+          }
+        },
+        "buttonlabel": {
+          "type": "Text",
+          "config": {
+            "label": "Button Label",
+            "placeholder": ""
+          }
+        },
+        "background_color": {
+          "type": "Color",
+          "config": {
+            "label": "background color",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {},
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

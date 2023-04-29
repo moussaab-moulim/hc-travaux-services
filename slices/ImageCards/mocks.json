@@ -1,0 +1,252 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "congress",
+        "type": "Text"
+      },
+      "heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Glass"
+            }
+          }
+        ]
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Aliquip excepteur proident nisi occaecat. Amet incididunt ut veniam officia labore et duis voluptate."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#40d629",
+        "type": "Color"
+      },
+      "background_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+          "width": 3648,
+          "height": 4560
+        },
+        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2",
+        "width": 3648,
+        "height": 4560,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+                "width": 3212,
+                "height": 3880
+              },
+              "url": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6",
+              "width": 3212,
+              "height": 3880,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ],
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Do tempor non adipisicing aliqua."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "text",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Ut ut occaecat reprehenderit aliquip eu irure ut cupidatat et eiusmod officia excepteur nisi. Eu officia nostrud pariatur Lorem ullamco elit. Anim fugiat consequat sint est."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "buttonLink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://prismic.io"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "imageCardsWithNoText",
+    "primary": {
+      "heading": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Mother"
+            }
+          }
+        ]
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Amet proident et consectetur voluptate dolore voluptate et."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#1c0c8c",
+        "type": "Color"
+      },
+      "background_image": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c",
+          "width": 3424,
+          "height": 3424
+        },
+        "url": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c",
+        "width": 3424,
+        "height": 3424,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "ground",
+        "type": "Text"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
+                "width": 6000,
+                "height": 4000
+              },
+              "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
+              "width": 6000,
+              "height": 4000,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 0,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "credits": null,
+              "alt": null,
+              "__TYPE__": "ImageContent",
+              "thumbnails": {}
+            }
+          ],
+          [
+            "title",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Occaecat reprehenderit proident esse ea dolor nulla esse dolore do qui excepteur. Id nostrud nulla anim adipisicing ad do aliquip qui. Anim voluptate irure ea qui."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "buttonLink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://slicemachine.dev"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "slice_id": "under",
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Chamber",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Dolor aute elit ea sunt consequat eu adipisicing eiusmod ad in sit sunt laboris minim. Tempor mollit deserunt fugiat.",
+          "spans": []
+        }
+      ],
+      "buttonLink": {
+        "link_type": "Web",
+        "url": "https://prismic.io"
+      },
+      "buttonText": "religious",
+      "backgroundImage": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e"
+      }
+    },
+    "slice_type": "hero"
+  },
+  {
+    "variation": "noActionHero",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {}
+    ],
+    "primary": {
+      "slice_id": "announced",
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Inside",
+          "spans": []
+        }
+      ],
+      "backgroundImage": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": null,
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1587840171670-8b850147754e"
+      }
+    },
+    "slice_type": "hero"
+  }
+]

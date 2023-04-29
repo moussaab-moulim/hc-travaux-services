@@ -1,0 +1,111 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "shine",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Citizen"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Incididunt labore consequat incididunt duis ad ipsum. Labore irure culpa dolor. Cupidatat eiusmod culpa dolore minim quis eiusmod reprehenderit laboris voluptate."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "nodded",
+        "type": "Text"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "image",
+            {
+              "__TYPE__": "ImageContent",
+              "origin": {
+                "id": "main",
+                "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5",
+                "width": 5848,
+                "height": 3899
+              },
+              "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?rect=975%2C0%2C3899%2C3899&w=140&h=140",
+              "width": 140,
+              "height": 140,
+              "edit": {
+                "zoom": 1,
+                "crop": {
+                  "x": 975,
+                  "y": 0
+                },
+                "background": "transparent"
+              },
+              "thumbnails": {}
+            }
+          ],
+          [
+            "review",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Nulla Lorem velit amet non."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "name",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "city",
+              "type": "Text"
+            }
+          ],
+          [
+            "social_media_label",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "principal",
+              "type": "Text"
+            }
+          ],
+          [
+            "social_media_link",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "http://google.com"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

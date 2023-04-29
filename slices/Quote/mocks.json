@@ -1,0 +1,70 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "color",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Supply"
+            }
+          }
+        ]
+      },
+      "quote": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading3",
+            "content": {
+              "text": "Enjoy"
+            }
+          }
+        ]
+      },
+      "source": {
+        "__TYPE__": "FieldContent",
+        "value": "worth",
+        "type": "Text"
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#50eb9b",
+        "type": "Color"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "buttonlabel",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "fierce",
+              "type": "Text"
+            }
+          ],
+          [
+            "buttonlink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "http://twitter.com"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]

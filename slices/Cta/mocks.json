@@ -1,0 +1,81 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "taught",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Street"
+            }
+          }
+        ]
+      },
+      "description": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Elit proident velit sit deserunt enim do sit eu ex incididunt quis sint reprehenderit aute exercitation. Voluptate adipisicing minim tempor ut consequat amet minim cillum sunt do Lorem veniam veniam."
+            }
+          }
+        ]
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#d64f7f",
+        "type": "Color"
+      },
+      "background": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+          "width": 6000,
+          "height": 4000
+        },
+        "url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+        "width": 6000,
+        "height": 4000,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {}
+      },
+      "buttonlink": {
+        "__TYPE__": "LinkContent",
+        "value": {
+          "__TYPE__": "ExternalLink",
+          "url": "http://google.com"
+        }
+      },
+      "buttonlabel": {
+        "__TYPE__": "FieldContent",
+        "value": "graph",
+        "type": "Text"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

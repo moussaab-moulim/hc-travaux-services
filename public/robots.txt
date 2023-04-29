@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://melissacoaching.ch
+
+# Sitemaps
+Sitemap: https://melissacoaching.ch/sitemap.xml

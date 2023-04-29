@@ -1,0 +1,102 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 480,
+            "height": 703
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1607582278043-57198ac8da43"
+        },
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Esse reprehenderit id sunt. Commodo ut officia in tempor labore cillum nulla sunt cupidatat aliquip.",
+            "spans": []
+          }
+        ],
+        "text": [
+          {
+            "type": "paragraph",
+            "text": "Qui Lorem tempor nostrud sunt exercitation proident id duis Lorem Lorem velit excepteur. Ad nostrud excepteur laborum irure enim voluptate deserunt veniam excepteur reprehenderit elit aliqua.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "http://google.com"
+        }
+      }
+    ],
+    "primary": {
+      "slice_id": "comfortable",
+      "heading": [
+        {
+          "type": "heading1",
+          "text": "Blank",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Culpa sit consectetur duis tempor non labore sunt consectetur aliquip magna reprehenderit. Fugiat nulla in non aliqua eu commodo laboris ex labore sint deserunt minim cupidatat sunt eiusmod.",
+          "spans": []
+        }
+      ],
+      "background_color": "#476b11"
+    },
+    "slice_type": "image_cards"
+  },
+  {
+    "variation": "imageCardsWithNoText",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 489,
+            "height": 703
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764"
+        },
+        "title": [
+          {
+            "type": "paragraph",
+            "text": "Lorem incididunt irure amet est laboris veniam incididunt dolore officia ipsum irure do ut officia dolor. Est est magna voluptate magna ipsum ad officia mollit.",
+            "spans": []
+          }
+        ],
+        "buttonLink": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        }
+      }
+    ],
+    "primary": {
+      "heading": [
+        {
+          "type": "heading1",
+          "text": "Youth",
+          "spans": []
+        }
+      ],
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Excepteur sunt aute esse ullamco fugiat elit. Eu magna nisi est do dolor aute officia irure id aute laborum ipsum nulla. Aliqua anim exercitation consequat non amet commodo quis adipisicing nulla irure incididunt ex exercitation quis.",
+          "spans": []
+        }
+      ],
+      "background_color": "#d6fcb4"
+    },
+    "slice_type": "image_cards"
+  }
+]

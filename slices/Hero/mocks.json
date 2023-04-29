@@ -1,0 +1,188 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "alike",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Known"
+            }
+          }
+        ]
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Consequat anim ut nisi sint id esse."
+            }
+          }
+        ]
+      },
+      "backgroundImage": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+          "width": 5243,
+          "height": 3495
+        },
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+        "width": 5243,
+        "height": 3495,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {
+          "mobile": {
+            "origin": {
+              "id": "mobile",
+              "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88",
+              "width": 3168,
+              "height": 4752
+            },
+            "url": "https://images.unsplash.com/photo-1589321578146-4c1ba445cc88?rect=0%2C792%2C3168%2C3168&w=737&h=737",
+            "width": 737,
+            "height": 737,
+            "edit": {
+              "zoom": 1,
+              "crop": {
+                "x": 0,
+                "y": 792
+              },
+              "background": "transparent"
+            },
+            "credits": null,
+            "alt": null
+          }
+        }
+      },
+      "class": {
+        "__TYPE__": "FieldContent",
+        "value": "officer",
+        "type": "Text"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "buttonlink",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "http://twitter.com"
+              }
+            }
+          ],
+          [
+            "buttontext",
+            {
+              "__TYPE__": "FieldContent",
+              "value": "us",
+              "type": "Text"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "noActionHero",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "poor",
+        "type": "Text"
+      },
+      "title": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "heading1",
+            "content": {
+              "text": "Ought"
+            }
+          }
+        ]
+      },
+      "backgroundImage": {
+        "origin": {
+          "id": "main",
+          "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+          "width": 2747,
+          "height": 4120
+        },
+        "url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+        "width": 2747,
+        "height": 4120,
+        "edit": {
+          "zoom": 1,
+          "crop": {
+            "x": 0,
+            "y": 0
+          },
+          "background": "transparent"
+        },
+        "credits": null,
+        "alt": null,
+        "__TYPE__": "ImageContent",
+        "thumbnails": {
+          "mobile": {
+            "origin": {
+              "id": "mobile",
+              "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db",
+              "width": 4380,
+              "height": 2895
+            },
+            "url": "https://images.unsplash.com/photo-1537498425277-c283d32ef9db?rect=743%2C0%2C2895%2C2895&w=737&h=737",
+            "width": 737,
+            "height": 737,
+            "edit": {
+              "zoom": 1,
+              "crop": {
+                "x": 743,
+                "y": 0
+              },
+              "background": "transparent"
+            },
+            "credits": null,
+            "alt": null
+          }
+        }
+      },
+      "class": {
+        "__TYPE__": "FieldContent",
+        "value": "primitive",
+        "type": "Text"
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]

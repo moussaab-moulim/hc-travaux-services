@@ -1,0 +1,110 @@
+{
+  "id": "pricing_packages",
+  "type": "SharedSlice",
+  "name": "PricingPackages",
+  "description": "PricingPackages",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "PricingPackages",
+      "primary": {
+        "slice_id": {
+          "type": "Text",
+          "config": {
+            "label": "slice id",
+            "placeholder": ""
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Title",
+            "placeholder": "This is where it all begins...",
+            "allowTargetBlank": true,
+            "single": "heading1,heading2,heading3,heading4,heading5,heading6,strong,em"
+          }
+        },
+        "description": {
+          "type": "StructuredText",
+          "config": {
+            "label": "Description",
+            "placeholder": "A nice description of your feature",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "background": {
+          "type": "Image",
+          "config": {
+            "label": "background",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "background_color": {
+          "type": "Color",
+          "config": {
+            "label": "background color",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {
+        "icon": {
+          "type": "Image",
+          "config": {
+            "label": "icon",
+            "constraint": {},
+            "thumbnails": []
+          }
+        },
+        "title": {
+          "type": "StructuredText",
+          "config": {
+            "label": "title",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "list": {
+          "type": "StructuredText",
+          "config": {
+            "label": "list",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "price": {
+          "type": "StructuredText",
+          "config": {
+            "label": "price",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "multi": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          }
+        },
+        "buttonlabel": {
+          "type": "Text",
+          "config": {
+            "label": "buttonLabel",
+            "placeholder": ""
+          }
+        },
+        "buttonlink": {
+          "type": "Link",
+          "config": {
+            "label": "buttonLink",
+            "placeholder": "",
+            "select": null
+          }
+        }
+      },
+      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+    }
+  ]
+}

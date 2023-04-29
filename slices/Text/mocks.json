@@ -1,0 +1,81 @@
+[
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "default",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "zoo",
+        "type": "Text"
+      },
+      "background_color": {
+        "__TYPE__": "FieldContent",
+        "value": "#6ee510",
+        "type": "Color"
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Nostrud cupidatat ea esse ex veniam amet velit dolore ullamco commodo magna eu velit. Magna cillum fugiat eiusmod ad proident in elit do magna voluptate amet qui velit consectetur excepteur. Irure aute Lorem proident adipisicing exercitation qui reprehenderit est aute officia sunt deserunt."
+            }
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Exercitation sit quis dolor. Adipisicing sint duis amet pariatur veniam velit est in velit. Consequat adipisicing ex nostrud veniam dolore."
+            }
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Id laboris commodo tempor eu ea consectetur id. Dolor proident qui sit. Culpa duis sunt deserunt cillum deserunt qui dolor exercitation anim ipsum velit amet."
+            }
+          },
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Ullamco excepteur sit nostrud dolor labore do anim labore. Nostrud fugiat ipsum cillum reprehenderit Lorem deserunt esse. Amet velit laboris aliqua aliqua voluptate proident Lorem commodo eiusmod voluptate dolor duis ex."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  },
+  {
+    "__TYPE__": "SharedSliceContent",
+    "variation": "twoColumns",
+    "primary": {
+      "slice_id": {
+        "__TYPE__": "FieldContent",
+        "value": "highway",
+        "type": "Text"
+      },
+      "text": {
+        "__TYPE__": "StructuredTextContent",
+        "value": [
+          {
+            "type": "paragraph",
+            "content": {
+              "text": "Nostrud Lorem occaecat commodo esse anim labore sunt. Anim ipsum commodo irure ipsum exercitation magna sint deserunt cillum culpa sint. Incididunt sunt veniam et consectetur cillum et qui sint laboris ut laborum ut ea consequat."
+            }
+          }
+        ]
+      }
+    },
+    "items": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": []
+      }
+    ]
+  }
+]
