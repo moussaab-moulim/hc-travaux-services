@@ -101,14 +101,14 @@ function ContactForm() {
             )}
           >
             <span>Tu as encore des questions?</span>
-            <em>CONTACTE-MOI</em>
+            <em>CONTACTEZ-NOUS</em>
           </Heading>
           <div className="form-text relative text-text text-base font-normal mt-5 font-raleway text-center md:text-left">
             {
-              " Tu as des questions sur les programmes ou tu veux avoir plus de détails, n'hésite pas à m'écrire."
+              " Tu as des questions à propos de nos tarifs et nos services, n'hesitez pas à nous contacter"
             }
             <br />
-            {"La première séance d'évaluation est offerte."}
+            {"C'est gratuit !"}
           </div>
         </div>
 

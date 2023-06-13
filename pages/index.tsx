@@ -9,12 +9,9 @@ import { WithContext, ExerciseGym } from 'schema-dts';
 import {
   NavigationDocument,
   PageDocument,
-  PageDocumentDataSlicesSlice,
   PostDocument,
-  PricingPackagesSlice,
   SettingsDocument,
 } from '.slicemachine/prismicio';
-import PostList from '@components/organisms/PostList';
 import { Layout } from '@components/templates/Layout';
 import { getInstagramFeed } from '@utils/common';
 //import { localeBusinessJsonLd } from '@utils/jsonLd/business';
@@ -37,7 +34,6 @@ export default function Home({
   navigation,
   settings,
   instagramFeed,
-  posts,
 }: IHome) {
   /*   const [posts, { state }] = usePrismicDocumentsByType('post', {
     pageSize: 6,
@@ -67,25 +63,7 @@ export default function Home({
       sameAs: globalJsonLd.sameAs,
       openingHoursSpecification: globalJsonLd.openingHoursSpecification,
       priceRange: globalJsonLd.priceRange,
-      makesOffer: (
-        page.data.slices.find(
-          (s: PageDocumentDataSlicesSlice) => s.primary.slice_id === 'tarifs'
-        ) as PricingPackagesSlice
-      ).items.map((offer) => {
-        return {
-          '@type': 'Offer',
-          priceSpecification: {
-            '@type': 'UnitPriceSpecification',
-            priceCurrency: 'CHF',
-            price: asText(offer.price).split('/')[0],
-          },
-          itemOffered: {
-            '@type': 'AggregateOffer',
-            name: asText(offer.title),
-            description: asText(offer.list),
-          },
-        };
-      }),
+
       address: globalJsonLd.address,
       location: globalJsonLd.location,
       areaServed: globalJsonLd.areaServed,
@@ -109,7 +87,7 @@ export default function Home({
         />
       </Head>
       <SliceZone slices={page.data.slices} components={components} />
-      <PostList posts={posts} />
+      {/* <PostList posts={posts} /> */}
     </Layout>
   );
 }
